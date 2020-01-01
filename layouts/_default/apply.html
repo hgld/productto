@@ -1,0 +1,30 @@
+{{ define "content" }}
+
+<div class="outer">
+  <div class="inner-medium">
+
+    <article class="post post-full">
+      <header class="post-header">
+        <h1 class="post-title">{{ .Params.title }}</h1>
+      </header><!-- .post-header -->
+      {{ if .Params.img_path }}
+      <div class="post-thumbnail">
+        <img src="{{ .Params.img_path | relURL }}" alt="{{ .Params.title }}" />
+      </div><!-- .post-thumbnail -->
+      {{ end }}
+      {{ if .Params.subtitle }}
+      <div class="post-subtitle">
+        {{ .Params.subtitle | safeHTML }}
+      </div><!-- .post-subtitle -->
+      {{ end }}
+      <div class="post-content">
+        {{ .Content }}
+      </div><!-- .post-content -->
+      <div id="wufoo-zh17gpv0m44gz0"> Fill out my <a href="https://wellinformed.wufoo.com/forms/zh17gpv0m44gz0">online form</a>. </div> <script type="text/javascript"> var zh17gpv0m44gz0; (function(d, t) { var s = d.createElement(t), options = { 'userName':'wellinformed', 'formHash':'zh17gpv0m44gz0', 'autoResize':true, 'height':'862', 'async':true, 'host':'wufoo.com', 'header':'hide', 'ssl':true }; s.src = ('https:' == d.location.protocol ?'https://':'http://') + 'secure.wufoo.com/scripts/embed/form.js'; s.onload = s.onreadystatechange = function() { var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return; try { zh17gpv0m44gz0 = new WufooForm(); zh17gpv0m44gz0.initialize(options); zh17gpv0m44gz0.display(); } catch (e) { } }; var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr); })(document, 'script'); </script>
+      
+    </article><!-- .post -->
+
+  </div><!-- .inner-medium -->
+</div><!-- .outer-->
+
+{{ end }}

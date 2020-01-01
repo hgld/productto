@@ -1,29 +1,27 @@
-title: Stackbit Azimuth Theme
+title: ProductTO
 baseURL: /
 params:
-  palette: blue
+  palette: green
   header:
-    title: Azimuth
-    logo_img: images/logo.png
+    title: ProductTO
     has_nav: true
     menu:
       actions:
-        - label: Sign Up
-          url: /signup
+        - label: Apply to Join
+          url: /join
   footer:
-    logo_img: images/logo_alt.png
-    tagline: SaaS theme by Stackbit
-    has_nav: true
+    tagline: ProductTO
+    has_nav: false
     nav_title: Company
-    has_social: true
+    has_social: false
     social_title: Community
-    has_subscribe: true
+    has_subscribe: false
     subscribe_title: Subscribe
     subscribe_content: Stay up to date with our latest developments.
-    content: '&copy; Stackbit. All rights reserved.'
+    content: '&copy; All rights reserved.'
     links:
-      - text: Made with Stackbit
-        url: 'https://www.stackbit.com'
+      - text: Made by Henry Dillon from WIL
+        url: 'https://www.wellinformed.co.uk'
         new_window: true
 disableKinds:
   - RSS

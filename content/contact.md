@@ -6,9 +6,7 @@ sections:
     section_id: contact
     title: Contact
     content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus
-      tortor pretium ligula.
+      Complete the form below and someone will be in touch.
     bg: gray
 menu:
   secondary:

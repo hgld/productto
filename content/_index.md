@@ -4,57 +4,42 @@ sections:
   - type: section_hero
     template: section_hero
     section_id: hero
-    title: This Is A Big Hero Headline
+    title: Let's have small group conversations about Product
     content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+      Each month ProductTO organises an after-work discussion forum for experienced product managers to share their knowledge and experience.
     image: images/hero.png
     actions:
-      - label: Learn More
-        url: /features
+      - label: Apply to Join
+        url: /join
   - type: section_features
     template: section_features
     section_id: features
-    title: Features
+    title: How does it work?
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      The ProductTO format is made up of three different topic discussions that are lead by a facilitator. 
     bg: gray
     featureslist:
-      - title: The Best Feature of Your Services
+      - title: Get introduced
         content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+          Each evening starts at 6.30pm sharp with introductions by each facilitator. This is the most important part of the evening as it will help you understand the topic their group will be discussing and why it's important to them.
         image: images/feature1.png
-        actions:
-          - label: Learn More
-            url: /features
-      - title: Awesome Feature of Your Services
+      - title: Choose your group
         content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+          After the intros, you'll need to choose a group to join. This isn't a passive keynote where you sit back and listen. You'll be expected to share your knowledge and experience in the group discussion.
         image: images/feature2.png
-        actions:
-          - label: Learn More
-            url: /features
-      - title: Cool Feature of Your Services
+      - title: Wrap up
         content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+          Each discussion group runs through until 8pm, however there's always an opportunity to carry the conversation. If you've felt inspired by the evening then we encourage you to consider leading a group in the future.
         image: images/feature3.png
         actions:
           - label: Learn More
-            url: /features
+            url: /lead
   - type: section_reviews
     template: section_reviews
     section_id: reviews
     title: Testimonials
     subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales. 
+      What people are saying about ProductTO
     bg: white
     reviews:
       - author: John Doe
@@ -76,16 +61,39 @@ sections:
   - type: section_cta
     template: section_cta
     section_id: call-to-action
-    title: This Is Call To Action Block!
-    subtitle: This is an optional description for the call to action block.
+    title: Before you join...
+    subtitle: Due to the format of the event – small-group discussions to share problems and learnings from practising Product Managers – we accept applications solely from those with direct experience. 
     actions:
-      - label: Get Started
-        url: /signup
-  - type: section_posts
-    template: section_posts
-    section_id: recent-posts
-    title: Latest Posts
+      - label: Learn More
+        url: /others
+  - type: section_faq
+    template: section_faq
+    section_id: faq
+    title: Frequently Asked Questions
+    subtitle: 'Phasellus luctus laoreet arcu, vel porta metus imperdiet sit amet.'
     bg: gray
+    faqitems:
+      - question: Mauris ut tellus id arcu sagittis lacinia quis vel justo?
+        answer: >-
+          Ut cursus, nunc vitae hendrerit viverra, massa ipsum congue quam, sed
+          tempus mauris lacus sit amet nibh. Curabitur laoreet est maximus
+          mollis feugiat. Praesent nibh libero, placerat et justo at, luctus
+          tristique enim. Pellentesque habitant morbi tristique senectus et
+          netus et malesuada fames ac turpis egestas.
+      - question: Aliquam eget purus ante?
+        answer: >-
+          Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
+          eros placerat. Sed neque neque, bibendum a pulvinar id, pellentesque
+          eget velit. 
+      - question: Sed scelerisque in ipsum eu sollicitudin?
+        answer: >-
+          Nullam quis ultrices ipsum. Integer eleifend laoreet quam, ac
+          dignissim nisi mollis eget. Ut vitae nisi sit amet nisi suscipit
+          dictum faucibus eget magna. Vivamus in hendrerit magna, non
+          pellentesque metus. Morbi orci odio, dictum at efficitur sit amet,
+          luctus in ipsum. Nunc pellentesque mi vel dui vulputate, a lobortis
+          lacus venenatis. Phasellus pellentesque dolor id feugiat faucibus.
+          Etiam vehicula nunc velit, in consequat nisl feugiat nec.
 menu:
   main:
     name: Home
