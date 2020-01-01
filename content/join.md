@@ -1,7 +1,7 @@
 ---
 title: Apply to Join
 subtitle: >-
-  Complete this form to register your interest in ProductTO and to receive invitations to future events. There are 10 questions, and it takes most people about 2 mins to finish.
+  Due to the format of the event – small-group discussions to share problems and learnings from practising Product Managers – we accept applications solely from those with direct experience.
 menu:
   secondary:
     name: Apply to Join
