@@ -1,7 +1,7 @@
 ---
 title: Lead a Talk
 subtitle: >-
-  The discussion groups at ProductTO are often facilitated by members of the ProductTO community. If you are interested in leading one of these groups then complete the form below.
+  Some of the best discussion groups are facilitated by members of the ProductTO community. If you are interested in leading one of these groups then complete the form below.
 menu:
   main:
     name: Lead a Talk
