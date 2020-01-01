@@ -54,7 +54,7 @@ sections:
       - question: Why hasn't my application been approved yet?
         answer: >-
           We try to get through new applications once a month, however we're also a volunteer team with other jobs and commitments.
-          Do feel free to get in touch with us if you'd like an update.
+          Do feel free to get in touch with one of the co-organizers on the [Product People Slack](https://productpeople.org/) if you'd like an update.
       - question: Is there a Slack group for ProductTO?
         answer: >-
           ProductTO doesn't have a Slack group however we thoroughly recommend [ProductPeople.org](https://productpeople.org/) as a way of continuing the conversation outside of our events.
