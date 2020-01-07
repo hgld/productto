@@ -7,5 +7,5 @@ menu:
 layout: past
 ---
 
-Here are some of the previous ProductTO talks. [Apply to join ProductTO](/apply) and get notified about upcoming topics and events.
+Here are some of the previous ProductTO talks. [Apply to join ProductTO](/join) and get notified about upcoming topics and events.
 
