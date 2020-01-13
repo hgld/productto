@@ -11,8 +11,8 @@ params:
           url: /join
   footer:
     tagline: ProductTO
-    has_nav: false
-    nav_title: Company
+    has_nav: true
+    nav_title: More info
     has_social: false
     social_title: Community
     has_subscribe: false

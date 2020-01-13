@@ -3,9 +3,9 @@ title: About ProductTO
 subtitle: >-
   
 menu:
-  main:
+  secondary:
     name: About 
-    weight: 2
+    weight: 1
 layout: page
 ---
 

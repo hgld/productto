@@ -58,9 +58,5 @@ sections:
       - question: Is there a Slack group for ProductTO?
         answer: >-
           ProductTO doesn't have a Slack group however we thoroughly recommend [ProductPeople.org](https://productpeople.org/) as a way of continuing the conversation outside of our events.
-menu:
-  main:
-    name: Home
-    weight: 1
 layout: landing
 ---
