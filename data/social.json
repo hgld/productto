@@ -1,19 +1,14 @@
 {
     "links": [
         {
-            "type": "twitter",
-            "title": "Twitter",
-            "url": "https://twitter.com/"
+            "type": "slack",
+            "title": "Product People Slack",
+            "url": "https://productpeople.org/"
         },
         {
-            "type": "instagram",
-            "title": "Instagram",
-            "url": "https://www.instagram.com/"
-        },
-        {
-            "type": "linkedin",
-            "title": "LinkedIn",
-            "url": "https://www.linkedin.com/"
+            "type": "others",
+            "title": "Other Product Groups",
+            "url": "/others"
         }
     ]
 }

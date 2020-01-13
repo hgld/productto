@@ -12,8 +12,8 @@ params:
   footer:
     tagline: ProductTO
     has_nav: true
-    nav_title: More info
-    has_social: false
+    nav_title: Organisation
+    has_social: true
     social_title: Community
     has_subscribe: false
     subscribe_title: Subscribe

@@ -2,10 +2,6 @@
 title: Other Product Groups
 subtitle: >-
   Due to the format of the event – small-group discussions to share problems and learnings from practising Product Managers – we accept applications solely from those with direct experience. 
-menu:
-  secondary:
-    name: Other Product Groups
-    weight: 1
 layout: page
 ---
 
