@@ -7,7 +7,7 @@ sections:
     title: Small group conversations about Product
     content: >-
       Each month ProductTO organises an after-work discussion forum for experienced product managers to share their knowledge and experience.
-    image: images/productto-group.jpeg
+    image: images/productto-hero.jpg
     actions:
       - label: Apply to Join
         url: /join
@@ -22,15 +22,15 @@ sections:
       - title: Get introduced
         content: >-
           Each event starts at 6.30pm sharp with an introduction by each facilitator. This is the most important part of the evening as it will help you understand the topic their group will be discussing and why it's important to them.
-        image: images/feature1.png
+        image: images/productto-introductions-cropped.jpg
       - title: Choose your group
         content: >-
           After the intros, you'll choose a discussion group to join. This isn't a passive keynote where you sit back and listen. You'll be expected to share your knowledge and experience in the group discussion.
-        image: images/feature2.png
+        image: images/productto-choose-group.jpg
       - title: Wrap up
         content: >-
           The discussion groups will wrap up at 8pm, however there's always an opportunity to mingle afterwards. If you've felt inspired by the evening then we encourage you to consider leading a group in the future.
-        image: images/feature3.png
+        image: images/productto_mingle.jpg
         actions:
           - label: Learn More
             url: /lead
