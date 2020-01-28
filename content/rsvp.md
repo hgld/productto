@@ -1,7 +1,7 @@
 ---
 title: RSVP
 subtitle: >-
-  Due to the format of the event – small-group discussions to share problems and learnings from practising Product Managers – we can only offer invitations to those with direct experience.
+  Due to the format of the event – small-group discussions to share problems and learnings from practising Product Managers – we can only register those with direct experience.
 layout: rsvp
 ---
 
