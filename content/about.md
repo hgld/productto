@@ -13,10 +13,15 @@ ProductTO was founded in 2013 by Henry Dillon. There wasn't much in the way of p
 
 The group is co-organised by an incredible team.
 
+ - David Crane
+ - May Wong
+ - Dorje Kongtsa 
+
+Previous organisers have included:
+
  - Kim Phelan
  - Sogol Fathian
  - Deep Shah
  - Eril Berkok
- - Andy Woo
  
- We are immensely grateful to [The Working Group (TWG)](https://twg.io/) that have generously allowed us to use their office space for our events.
+We are immensely grateful to Intuit that have generously allowed us to use their office space for our events.
